@@ -10,3 +10,5 @@ This will install the following required pods: <br>
 <br><br>
 If cocoapods is not already installed, install it with following gem command.<br>
 <b><i>$ sudo gem install cocoapods</b></i><br>
+<br>
+![textdetect](https://user-images.githubusercontent.com/14230368/41650378-89a77834-749b-11e8-8d25-a72a2eb4b157.gif)
