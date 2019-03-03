@@ -6,7 +6,7 @@ target 'TextDetect' do
   use_frameworks!
 
   # Pods for TextDetect
-  pod 'Firebase/Core'
-  pod 'Firebase/MLVision'
-  pod 'Firebase/MLVisionTextModel'
+  pod 'Firebase/Core', '~> 5.2.0' 
+  pod 'Firebase/MLVision', '~> 5.2.0' 
+  pod 'Firebase/MLVisionTextModel', '~> 5.2.0' 
 end
